@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Kottu Roti",
+    "price": 750,
+    "category": "Mains",
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Fried Rice",
+    "price": 850,
+    "category": "Mains",
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Watalappan",
+    "price": 350,
+    "category": "Dessert",
+    "available": false
+  },
+  {
+    "id": 4,
+    "name": "puttu",
+    "price": 3576,
+    "category": "Mains",
+    "available": true
+  }
+]
